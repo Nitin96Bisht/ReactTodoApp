@@ -4,6 +4,9 @@
 	border-radius: 5px;
 	padding: 0;
 	margin-bottom: 2rem;
+	width: 38%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .container__header {
@@ -13,7 +16,6 @@
 	label {
 		cursor: pointer;
 		font-size: 1rem;
-
 	}
 
 	> :last-child {
