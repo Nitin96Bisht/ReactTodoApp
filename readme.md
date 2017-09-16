@@ -39,6 +39,10 @@ Here are some tools that I used:
 
 </ol>
 
+## Test 
+
+```npm test```
+
 ## Author 
 <a href="https://github.com/Nitin96Bisht">Nitin Bisht</a>
 
