@@ -39,7 +39,7 @@ Here are some tools that I used:
 
 </ol>
 
-## Test 
+## Testing 
 
 ```npm test```
 
