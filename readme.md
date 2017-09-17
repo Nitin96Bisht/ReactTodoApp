@@ -27,11 +27,15 @@ Here are some tools that I used:
 
 ## Installing 
 <ol>
-<li>Download this project</li>
+<li>Download this project or clone as shown:</li>
+```git clone https://github.com/Nitin96Bisht/ReactTodoApp```
+
 <li>Install node modules as shown below:</li>
 
 
-```cd ReactTodoApp && npm install```
+```cd ReactTodoApp```
+<br>
+```npm install```
 
 <li>Run project as shown below:</li>
 
